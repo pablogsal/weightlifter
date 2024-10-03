@@ -1,0 +1,21 @@
+{
+  "status": "done",
+  "assets": {
+    "bundle.js": {
+      "name": "bundle.js",
+      "path": "/home/pablogsal/github/weightlifter/weightlifter/tracker/static/tracker/js/bundle.js",
+      "publicPath": "/static/tracker/js/bundle.js"
+    },
+    "bundle.js.LICENSE.txt": {
+      "name": "bundle.js.LICENSE.txt",
+      "path": "/home/pablogsal/github/weightlifter/weightlifter/tracker/static/tracker/js/bundle.js.LICENSE.txt",
+      "publicPath": "/static/tracker/js/bundle.js.LICENSE.txt"
+    }
+  },
+  "chunks": {
+    "main": [
+      "bundle.js"
+    ]
+  },
+  "publicPath": "/static/tracker/js/"
+}
